@@ -18,10 +18,9 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
-
     private void resta(){
-
         //TODO
+        int a=9,b=1, resultado;
+        resultado = a-b;
     }
 }
